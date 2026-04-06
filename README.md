@@ -15,3 +15,6 @@ A Python-based network scanner that detects open ports on a target system. This 
 ## ▶️ How to Run
 ```bash
 python scanner.py
+
+## 📸 Sample Output
+![Output](output.png)
